@@ -1,2 +1,2 @@
 # codec-internship-projects
-Spam Email Classifier and Weather Temperature Prediction — AI Internship Projects using Python and Machine Learning
+AI Internship projects at Codec — Spam Email Classifier and Weather Temperature Prediction using Python and Machine Learning
